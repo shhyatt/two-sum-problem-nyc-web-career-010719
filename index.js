@@ -18,3 +18,9 @@ function bruteForceTwoSum(array, sum){
   //console.log(solution, "18");
   return solution
 }
+
+function binarySearchTwoSum(root, target){
+  
+  
+  
+}
